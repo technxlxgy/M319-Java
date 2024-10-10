@@ -1,5 +1,3 @@
-//funktioniert einwandfrei (Auswahl + Preisanzeige)
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -20,7 +18,6 @@ public class Main {
             
         Scanner Eingabe = new Scanner(System.in);
         
-        //String myString;
         boolean antwortGültig = true;                            
         while (antwortGültig) {
             boolean getränkGültig = true;
